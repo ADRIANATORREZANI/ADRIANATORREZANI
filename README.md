@@ -10,14 +10,71 @@
 📍 Primavera do Leste - MT | 📧 adriana.torrezani@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/adrianatorrezanibarquet) | 🐙 [GitHub](https://github.com/ADRIANATORREZANI)
 
+---
+
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente me especializo em Inteligência Artificial, com foco em Modelos de Linguagem (LLMs). Estou em transição de carreira, trazendo habilidades de criatividade, comunicação e pensamento estratégico para projetos de dados e IA.
 
-## 🧠 Meus Focos:
-- Machine Learning e LLMs
-- Python para automação e análise de dados
-- Projetos práticos com impacto real
+Apaixonada por tecnologia com propósito, busco oportunidades como **Machine Learning Engineer**, **Analista de Dados** ou áreas relacionadas.
 
-## 📌 Portfólio de Projetos
+---
+
+## 🧠 Áreas de Interesse
+- Modelos de Linguagem (LLMs) e Processamento de Linguagem Natural (NLP)
+- Machine Learning com Python
+- Análise de Dados e Visualização
+- Aplicações com Gradio, Streamlit e APIs
+
+---
+
+## 📌 Projetos em Destaque
+
+### 📊 Análise Exploratória de Dados Públicos
+Análise com Python de um dataset aberto (IBGE, ENEM, ou Saúde), com gráficos e insights.
+- `pandas`, `matplotlib`, `seaborn`
+- [🔗 Acesse o projeto aqui](https://github.com/ADRIANATORREZANI/projeto-analise-dados)
+
+---
+
+### 🤖 Classificador de Texto com LLMs
+Modelo de IA para classificar sentimentos ou categorias em textos curtos, usando Hugging Face.
+- `transformers`, `scikit-learn`, `gradio`
+- [🔗 Veja em ação](https://github.com/ADRIANATORREZANI/classificador-texto)
+
+---
+
+### 🧠 Geração de Conteúdo com IA
+Automação de legendas e ideias criativas usando modelos generativos e ferramentas de IA.
+- `OpenAI API`, `Python`, `Canva`
+- [🔗 Link do projeto](https://github.com/ADRIANATORREZANI/ia-conteudo)
+
+---
+
+### 🛍️ Recomendação Simples de Produtos
+Sistema de recomendação baseado em similaridade, com interface interativa.
+- `numpy`, `streamlit`
+- [🔗 Veja aqui](https://github.com/ADRIANATORREZANI/recomendador-simples)
+
+---
+
+## 💼 Experiência Relevante
+
+- Criadora de Conteúdo Digital com foco em IA aplicada
+- Projetos autorais com Python e Machine Learning
+- Habilidades de comunicação, organização e criatividade
+
+---
+
+## 📚 Formação
+
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Jul/2022 – Dez/2024)  
+📘 Especialização em Inteligência Artificial com LLMs – SoulCode Academy (em andamento)
+
+---
+
+## 📈 Vamos nos conectar?
+
+Me envie uma mensagem ou me adicione no [LinkedIn](https://www.linkedin.com/in/adrianatorrezanibarquet). Estou aberta a oportunidades e parcerias em tecnologia, IA e projetos educacionais!
+
 
 
 

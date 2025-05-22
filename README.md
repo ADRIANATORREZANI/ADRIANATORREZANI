@@ -5,6 +5,20 @@
 </div>
 
 ###
+# 👩‍💻 Adriana Torrezani Barquet
+
+📍 Primavera do Leste - MT | 📧 adriana.torrezani@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/adrianatorrezanibarquet) | 🐙 [GitHub](https://github.com/ADRIANATORREZANI)
+
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente me especializo em Inteligência Artificial, com foco em Modelos de Linguagem (LLMs). Estou em transição de carreira, trazendo habilidades de criatividade, comunicação e pensamento estratégico para projetos de dados e IA.
+
+## 🧠 Meus Focos:
+- Machine Learning e LLMs
+- Python para automação e análise de dados
+- Projetos práticos com impacto real
+
+## 📌 Portfólio de Projetos
+
 
 
 - 👋 Hi, I’m @ADRIANATORREZANI

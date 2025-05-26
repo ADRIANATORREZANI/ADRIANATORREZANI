@@ -12,9 +12,12 @@
 
 ---
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente me especializo em Inteligência Artificial, com foco em Modelos de Linguagem (LLMs). Estou em transição de carreira, trazendo habilidades de criatividade, comunicação e pensamento estratégico para projetos de dados e IA.
+Profissional em transição de carreira com foco em resolver desafios com dados, inteligência artificial e automação. Tenho paixão por aplicar tecnologia de forma prática e criativa, buscando sempre gerar valor para pessoas e negócios.
 
-Apaixonada por tecnologia com propósito, busco oportunidades como **Machine Learning Engineer**, **Analista de Dados** ou áreas relacionadas.
+🧠 Tecnologias que domino:
+Python, Machine Learning, LLMs, Pandas, Scikit-learn, SQL, Gradio, Streamlit, Git, APIs, ferramentas de IA generativa (ChatGPT, Midjourney, Canva IA).
+
+Tenho formação técnica, projetos práticos publicados no GitHub e experiência prévia com comunicação digital, escrita criativa e pensamento analítico. Busco aplicar soluções tecnológicas de forma acessível, estratégica e com foco em impacto real.
 
 ---
 

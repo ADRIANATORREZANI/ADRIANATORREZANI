@@ -77,41 +77,6 @@ Me envie uma mensagem ou me adicione no [LinkedIn](https://www.linkedin.com/in/a
 
 
 
----
-
-### 🧠 Geração de Conteúdo com IA
-Automação de legendas e ideias criativas usando modelos generativos e ferramentas de IA.
-- `OpenAI API`, `Python`, `Canva`
-- [🔗 Link do projeto](https://github.com/ADRIANATORREZANI/ia-conteudo)
-
----
-
-### 🛍️ Recomendação Simples de Produtos
-Sistema de recomendação baseado em similaridade, com interface interativa.
-- `numpy`, `streamlit`
-- [🔗 Veja aqui](https://github.com/ADRIANATORREZANI/recomendador-simples)
-
----
-
-## 💼 Experiência Relevante
-
-- Criadora de Conteúdo Digital com foco em IA aplicada
-- Projetos autorais com Python e Machine Learning
-- Habilidades de comunicação, organização e criatividade
-
----
-
-## 📚 Formação
-
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas – Estácio (Jul/2022 – Dez/2024)  
-📘 Especialização em Inteligência Artificial com LLMs – SoulCode Academy (em andamento)
-
----
-
-## 📈 Vamos nos conectar?
-
-Me envie uma mensagem ou me adicione no [LinkedIn](https://www.linkedin.com/in/adrianatorrezanibarquet). Estou aberta a oportunidades e parcerias em tecnologia, IA e projetos educacionais!
-
 
 
 
